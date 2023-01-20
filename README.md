@@ -1,1 +1,1 @@
-This is a JavaScript small project, a calculator with the simple arithmetic operations. Here I learned about the core basics of JS, its structure and a little bit of variables, functions and event listeners.
+This is a small JavaScript project, a calculator with the simple arithmetic operations. Here I learned about the core basics of JS, its structure and a little bit of variables, functions and event listeners.
